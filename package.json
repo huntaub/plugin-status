@@ -1,5 +1,5 @@
 {
-  "id": "ch.airdispat.plugins.status",
+  "id": "com.github.melange-app.plugin-status",
   "name": "Status",
   "version": "0.0.1",
   "description": "Publish small statuses.",
