@@ -6,6 +6,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
     var parsedTo = [];
 
+    if(body.value === "") {
+      return;
+    }
+
     if(toAddress.value !== "") {
       var addrs = rawTo.value.split(",");
       for (var i in addrs) {
