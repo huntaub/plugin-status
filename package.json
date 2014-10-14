@@ -1,7 +1,7 @@
 {
   "id": "com.github.melange-app.plugin-status",
   "name": "Status",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Publish small statuses.",
   "permissions": {
     "read-message": ["airdispat.ch/status/body"],
